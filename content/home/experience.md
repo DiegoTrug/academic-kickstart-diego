@@ -22,14 +22,14 @@ date_format = "Jan 2006"
   company = "Extrumex S.A de C.V"
   company_url = "https://extrumex.com.mx/"
   location = "Santa Catarina, NL"
-  date_start = "2018-01-01"
+  date_start = "23-09-2018"
   date_end = ""
   description = """
-  Responsibilities include:
+  Actividades:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Documentación de procesos y apoyo en instalación de máquina extrusora JWELL
+  * Estandarización y Capacitación de Línea de Extrusión # 1 (JWELL)
+  * Creación de Aplicación móvil para Mantenmiento Preventivo (CheckList de Arranque)
   """
 
 [[experience]]
