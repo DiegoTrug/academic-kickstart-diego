@@ -22,15 +22,10 @@ date_format = "Jan 2006"
   company = "Extrumex S.A de C.V"
   company_url = "https://extrumex.com.mx/"
   location = "Santa Catarina, NL"
-  date_start = "Jan 2018"
-  date_end = ""
-  description = """
-  Actividades:
-  
-  * Documentación de procesos y apoyo en instalación de máquina extrusora JWELL
-  * Estandarización y Capacitación de Línea de Extrusión # 1 (JWELL)
-  * Creación de Aplicación móvil para Mantenmiento Preventivo (CheckList de Arranque)
-  """
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
 
 [[experience]]
   title = "Professor"
